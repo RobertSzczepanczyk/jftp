@@ -20,7 +20,7 @@ Inventory: 629 files; 182 Java sources; 98 binary files represented by metadata 
 | `CLAUDE.md` | text | tracked | 11 | 1 | 336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49 |
 | `LICENSE.txt` | text | tracked | 11560 | 202 | 3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5 |
 | `NOTICE.txt` | text | tracked | 569 | 13 | 1e2cce620795b0f0cbfc7c318811a96a74c315e6f63538c742f83c5c9d9c4cd7 |
-| `README.md` | text | tracked | 6862 | 176 | 8821969e8a2c7cd42f0e39c66c794665a54799915d8095c174688329aa2a1bac |
+| `README.md` | text | tracked | 6862 | 176 | e3e52a89f3437241c465cebd724b1e5dadf0883eaf336a70479df5daacd1bc8b |
 | `docs/AGENTS.md` | text | tracked | 1119 | 8 | f15ce353f5d40f11d19712bebe12a36effb9fc0c4fda1d8f8d71764382101e0c |
 | `docs/CLAUDE.md` | text | tracked | 11 | 1 | 336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49 |
 | `docs/README.md` | text | tracked | 4053 | 58 | d7dad1d59ee3f7ea84ff201f949be90b2fb5fa3eccbdd4fd5ac149bf50f9c32e |
